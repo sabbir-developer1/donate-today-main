@@ -1,0 +1,6 @@
+body{
+    font-family: 'DM Serif Display', serif; 
+}
+#container{
+    display: flex;
+}
