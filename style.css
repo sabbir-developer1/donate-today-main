@@ -102,3 +102,96 @@ body {
     margin-left: 40%;
     margin-right: 40%;
 }
+
+.flex {
+    display: flex;
+    padding-top: 50px;
+}
+
+.ntg {
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: aliceblue;
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#change {
+    background-color: blanchedalmond;
+}
+
+#right {
+    background-color: cornsilk;
+}
+
+.omg {
+    display: flex;
+    padding-top: 80px;
+}
+
+.ahmed {
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 180px;
+}
+
+#inline {
+    display: block;
+}
+
+#id {
+    font-size: 50px;
+}
+
+#btn {
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+
+.long {
+    display: flex;
+    padding-top: 150px;
+}
+
+.class {
+    text-align: center;
+    text-decoration: none;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.nai {
+    background-color: antiquewhite;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+button {
+    background-color: red;
+    font-size: 25px;
+}
+
+#input {
+    background-color: aliceblue;
+    font-size: 25px;
+}
+
+.container {
+    padding-top: 100px;
+}
+
+.black {
+    background-color: black;
+    margin-top: 100px;
+    padding: 40px 50px;
+}
+
+.bb {
+    text-align: center;
+    color: white;
+}
